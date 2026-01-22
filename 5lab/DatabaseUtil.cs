@@ -13,7 +13,7 @@ public static class DatabaseUtil
 
     public static void AddAccrual(this Database database)
     {
-        int accountId = Util.Parse<int>("Введите ID счета");
+        int accountId = Util.Parse<int>("Введите ID счета: ");
         if (!database.Has<Account>(accountId))
         {
             Console.WriteLine("Такого счета не существует");

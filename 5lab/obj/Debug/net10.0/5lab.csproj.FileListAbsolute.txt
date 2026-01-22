@@ -46,3 +46,4 @@ C:\Users\tdk\Desktop\5lab\5lab\obj\Debug\net10.0\ref\5lab.dll
 \\TDK-LAPTOR\Network\5lab\5lab\obj\Debug\net10.0\5lab.pdb
 \\TDK-LAPTOR\Network\5lab\5lab\obj\Debug\net10.0\5lab.genruntimeconfig.cache
 \\TDK-LAPTOR\Network\5lab\5lab\obj\Debug\net10.0\ref\5lab.dll
+\\TDK-LAPTOR\Network\5lab\5lab\obj\Debug\net10.0\5lab.sourcelink.json
